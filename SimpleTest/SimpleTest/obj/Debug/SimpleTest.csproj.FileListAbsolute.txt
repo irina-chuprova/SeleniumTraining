@@ -1,0 +1,11 @@
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\bin\Debug\SimpleTest.dll
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\bin\Debug\SimpleTest.pdb
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\bin\Debug\nunit.framework.dll
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\bin\Debug\WebDriver.dll
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\bin\Debug\WebDriver.Support.dll
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\bin\Debug\nunit.framework.xml
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\bin\Debug\WebDriver.xml
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\bin\Debug\WebDriver.Support.xml
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\obj\Debug\SimpleTest.csprojResolveAssemblyReference.cache
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\obj\Debug\SimpleTest.dll
+I:\Work\Training\SeleniumTraining\SimpleTest\SimpleTest\obj\Debug\SimpleTest.pdb
