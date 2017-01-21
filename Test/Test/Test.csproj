@@ -68,6 +68,14 @@
     <Compile Include="Task14.cs" />
     <Compile Include="Task15.cs" />
     <Compile Include="Task17.cs" />
+    <Compile Include="Task19\app\Application.cs" />
+    <Compile Include="Task19\pages\CheckoutPage.cs" />
+    <Compile Include="Task19\pages\LiteCartPage.cs" />
+    <Compile Include="Task19\pages\Page.cs" />
+    <Compile Include="Task19\model\Product.cs" />
+    <Compile Include="Task19\pages\ProductPage.cs" />
+    <Compile Include="Task19\test\Task19.cs" />
+    <Compile Include="Task19\TestBase.cs" />
     <Compile Include="Task5-6.cs" />
     <Compile Include="Task3-4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -75,6 +83,7 @@
     <Compile Include="Task8.cs" />
     <Compile Include="Task9.cs" />
     <Compile Include="Test16.cs" />
+    <Compile Include="Task18.cs" />
     <Compile Include="TestCommon.cs" />
   </ItemGroup>
   <ItemGroup>
